@@ -3,7 +3,7 @@ import Navbar2 from '../components/Navbar2'
 import Card from '../components/Card'
 
 
-function New() {
+function Popular() {
    return(
     <div className='bg-[#BAC7E1]'>
         <Navbar2/>
@@ -25,4 +25,4 @@ function New() {
    )
 }
 
-export default New;
+export default Popular;
